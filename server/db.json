@@ -1,4 +1,15 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "1754071873301",
+      "username": "hlo",
+      "joinedAt": "2025-08-01T18:11:13.301Z"
+    },
+    {
+      "id": "1754071903373",
+      "username": "Broody",
+      "joinedAt": "2025-08-01T18:11:43.373Z"
+    }
+  ],
   "messages": []
 }
